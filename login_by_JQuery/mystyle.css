@@ -1,0 +1,70 @@
+<style>
+   *{
+    padding:0px;
+    margn:0px;
+    }
+    .ttitle{
+				
+		font-family:YouYuan;
+		color:#778899;
+	}
+	.nname{
+		//text-align:center;
+		padding-left:85px;
+		font-family:YouYuan;
+		color:#778899;
+	}
+	.nname2{
+		//text-align:center;
+		background: url(user.gif  ) no-repeat;
+        
+		padding-left:15px;
+		font-family:YouYuan;
+		color:#778899;
+	}
+	.ppassword{
+		//text-align:center;
+		padding-left:85px;
+		font-family:YouYuan;
+		color:#778899;
+	}
+	.ppassword2{
+		//text-align:center;
+		padding-left:15px;
+		background: url(edit.gif  ) no-repeat;
+		font-family:YouYuan;
+		color:#778899;
+	}
+	.qita{
+		text-decoration:underline;
+		text-align:right;
+		//font-family:youyuan;
+		color:#778899;
+	}
+	.denglu{
+		font-family:YouYuan;
+		color:#778899;
+		text-align:center;
+		border-radius:10px;
+		font-size:20px;
+
+	}
+	.kuang{
+        font-family:verdana;
+		position:fixed;
+		padding:10px;
+		left:410px;
+		width:420px;
+		height:240px;
+		border-radius:40px;
+		border:10px solid #CD853F;
+	}
+	.beijing{
+		background-color:#FFE4E1;
+	}
+	.error{
+	color:red;
+	font-size=22px;
+}
+	
+</style>

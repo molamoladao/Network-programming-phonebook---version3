@@ -1,0 +1,40 @@
+<style>
+    *{
+    padding:0px;
+    margn:0px;
+	border-radius:10px;
+    }
+    table#stuRecordTable{
+		width:600px;
+		margin:40px auto;
+		text-align: center;
+		border="2";
+		
+	}
+    table#stuRecordTable tr{
+		height:30px;
+		font-weight:900;
+		font-family:YouYuan;
+		font-size:1em;	
+	}
+	.ttitle{
+		font-size:2em;		
+		font-family:YouYuan;
+		font-weight:900;
+	}
+	
+	.kuang{
+        font-family:verdana;
+		position:absolute;
+		padding:10px;
+		left:320px;
+		border-radius:40px;
+		border:10px solid #CD853F;
+	}
+	.beijing{
+		background-color:#FFE4E1;
+		font-size:100%;
+	}
+	
+	
+</style>

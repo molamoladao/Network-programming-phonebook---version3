@@ -1,0 +1,45 @@
+<style>
+
+	
+	.weizhi{
+		
+		margin:10px 0px 3px 600px;
+
+	}
+	.shuru{
+		text-align:center;
+		font-family:YouYuan;
+		color:#778899;
+		font-size: 1em;
+	}
+	.beijing{
+		background-color:#FFE4E1;
+		font-size:100%;
+	}
+	.weizhi{
+		text-align:center;
+		border-radius:10px;
+		font-size:15px;
+		color:#778899;
+		margin:10px 0px 3px 600px;
+
+	}
+	.shuxing{
+		
+		margin:20px 0px 5px 490px;
+		font-family:YouYuan;
+		color:#778899;
+		font-size:1em;
+	}
+	.hhead{
+		margin:20px 0px 5px 530px;
+		font-family:YouYuan;
+		color:#778899;
+		font-size:2em;
+	}
+	.error{
+		color:red;
+		margin:0px 0px 0px 0px;
+	}
+
+</style>

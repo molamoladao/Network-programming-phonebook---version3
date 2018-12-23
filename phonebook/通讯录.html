@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<title>通讯录</title>
+<link rel='StyleSheet'  type='text/css' href='mystyle2.css'>
+<script type="text/javascript"  src="onclick.js"></script>
+
+</head>
+
+<body class="beijing">
+<div class="kuang">
+<h1 class="ttitle"><center>||通讯录||</center></h2>
+<hr>
+    <table id="stuRecordTable" border="1" cellpadding="0" cellspacing="0">
+        <tr>
+            <th>姓名</th> 
+            <th>电话</th>
+            <th>所在地</th>
+			<th>编辑操作</th>
+        </tr>
+        <tr>
+            <td>小包</td>
+            <td>123456</td>
+			<td>SL</td>
+            <td><input type="button" value="删除" class="del"/>
+            <input type="button" value="修改" class="update"/></td>
+        </tr>
+        <tr>
+            <td>小林</td>
+            <td>832452</td>
+			<td>TW</td>
+            <td><input type="button" value="删除" class="del"/>
+            <input type="button" value="修改" class="update"/></td>
+        </tr>
+        <tr>
+            <td colspan="4">
+			
+            <input type="button" value="添加" onclick="addRow()"/></td>
+            <!--<button onclick="window.location.href = '添加新联系人.html'"/>添加</button>-->
+			
+		</tr>
+    </table>
+</div>
+</body>
